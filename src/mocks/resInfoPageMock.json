@@ -1,0 +1,49 @@
+{
+	"data": {
+		"cards": [
+			{},
+			{},
+			{
+				"card": {
+					"card": {
+						"info": {
+							"name": "Mock Café",
+							"cuisines": ["Fast Food", "Wraps"],
+							"costForTwoMessage": "₹300 for two"
+						}
+					}
+				}
+			},
+			{},
+			{
+				"groupedCard": {
+					"cardGroupMap": {
+						"REGULAR": {
+							"cards": [
+								{
+									"card": {
+										"card": {
+											"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+											"title": "Recommended",
+											"itemCards": [
+												{
+													"card": {
+														"info": {
+															"id": "1",
+															"name": "Veggie Wrap",
+															"price": 200
+														}
+													}
+												}
+											]
+										}
+									}
+								}
+							]
+						}
+					}
+				}
+			}
+		]
+	}
+}

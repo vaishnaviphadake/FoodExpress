@@ -1,0 +1,83 @@
+{
+	"id": "397335",
+	"name": "Kwality Walls Ice Cream and More",
+	"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/13/b5c089a5-a673-4a2f-9374-08378e3da502_397335.JPG",
+	"locality": "Ghole Road",
+	"areaName": "Shivajinagar",
+	"costForTwo": "₹300 for two",
+	"cuisines": ["Desserts", "Ice Cream", "Ice Cream Cakes"],
+	"avgRating": 4.4,
+	"veg": true,
+	"parentId": "582",
+	"avgRatingString": "4.4",
+	"totalRatingsString": "695",
+	"sla": {
+		"deliveryTime": 14,
+		"lastMileTravel": 1.5,
+		"serviceability": "SERVICEABLE",
+		"slaString": "10-15 mins",
+		"lastMileTravelString": "1.5 km",
+		"iconType": "ICON_TYPE_EMPTY"
+	},
+	"availability": {
+		"nextCloseTime": "2025-06-10 23:59:00",
+		"opened": true
+	},
+	"badges": {
+		"imageBadges": [
+			{
+				"imageId": "bolt/big%20rx%20listing%2015%20mins%20.png",
+				"description": "bolt!"
+			},
+			{
+				"imageId": "v1695133679/badges/Pure_Veg111.png",
+				"description": "pureveg"
+			}
+		]
+	},
+	"isOpen": true,
+	"type": "F",
+	"badgesV2": {
+		"entityBadges": {
+			"imageBased": {
+				"badgeObject": [
+					{
+						"attributes": {
+							"description": "bolt!",
+							"imageId": "bolt/big%20rx%20listing%2015%20mins%20.png"
+						}
+					},
+					{
+						"attributes": {
+							"description": "pureveg",
+							"imageId": "v1695133679/badges/Pure_Veg111.png"
+						}
+					}
+				]
+			},
+			"textBased": {},
+			"textExtendedBadges": {}
+		}
+	},
+	"aggregatedDiscountInfoV3": {
+		"header": "₹125 OFF",
+		"subHeader": "ABOVE ₹299",
+		"discountTag": "FLAT DEAL"
+	},
+	"differentiatedUi": {
+		"displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+		"differentiatedUiMediaDetails": {
+			"lottie": {},
+			"video": {}
+		}
+	},
+	"reviewsSummary": {},
+	"displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+	"restaurantOfferPresentationInfo": {},
+	"externalRatings": {
+		"aggregatedRating": {
+			"rating": "--"
+		}
+	},
+	"ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+}
